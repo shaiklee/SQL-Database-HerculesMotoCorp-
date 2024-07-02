@@ -1,2 +1,3 @@
-# SQL-Database-HerculesMotoCorp-
+# SQL-Database-HerculesMotoCorp
 The Hercules MotoCorp SQL database is designed to manage and organize the operations of Hercules Motocorp, a fictional automotive company. This database includes various tables and relationships to track products, sales, customers, and other essential business operations.
+This database project, named MotorsCertification, aims to help Hercules MotoCorp employees manage data efficiently and enable shareholders and other stakeholders to view and understand the data effortlessly. The database includes several interconnected tables, handling various aspects such as orders, customers, employees, products, and payments.
